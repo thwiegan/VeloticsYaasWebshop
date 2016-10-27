@@ -1,0 +1,13 @@
+---
+applications:
+- name: shops
+  command: npm run-script multiTest
+  buildpack: https://github.com/heroku/heroku-buildpack-nodejs.git
+  memory: 1024M
+  disk_quota: 1024M
+  disk: 1024M
+  host: shops
+  domain: dev.cf.hybris.com
+  instances: 1
+  url: shops.cf1.hybris.com
+  path: .
