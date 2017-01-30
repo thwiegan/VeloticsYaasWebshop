@@ -1,8 +1,0 @@
-.idea/
-.tmp/
-config/
-coverage/
-docu/
-node_modules/
-test/
-*.yml

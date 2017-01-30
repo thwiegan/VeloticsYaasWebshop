@@ -1,1 +1,0 @@
-External JS files not made available through bower

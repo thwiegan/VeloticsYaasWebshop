@@ -1,3 +1,0 @@
-/*
-phantomCSS tests will go here
-*/

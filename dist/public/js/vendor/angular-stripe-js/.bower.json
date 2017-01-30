@@ -1,0 +1,27 @@
+{
+  "name": "angular-stripe-js",
+  "version": "0.0.6",
+  "main": "./build/angular-stripe-js.min.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "angular": "~1.2.7"
+  },
+  "devDependencies": {
+    "angular-mocks": "*",
+    "angular-scenario": "*"
+  },
+  "homepage": "https://github.com/Venturocket/angular-stripe-js",
+  "_release": "0.0.6",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.6",
+    "commit": "c544d94dabc7a71eda3bfab21b18696eb4952b81"
+  },
+  "_source": "git://github.com/Venturocket/angular-stripe-js.git",
+  "_target": "0.0.6",
+  "_originalSource": "Venturocket/angular-stripe-js"
+}

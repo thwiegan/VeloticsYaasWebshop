@@ -1,8 +1,0 @@
----
-applications:
-- name: store-template-simple
-  buildpack: https://github.com/drnic/staticfile-buildpack.git
-  memory: 64M
-  host: store-template-simple
-  instances: 1
-  path: dist
